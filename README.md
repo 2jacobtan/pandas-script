@@ -5,7 +5,7 @@ Simplified version can easily be done via Power Query (a data import and manipul
 
 Features:
 
-• Automatically detect relevant files placed in a folder. (Specified in separate .txt file.)
+• Automatically detect relevant files placed in a folder. (specified in separate .txt file)
 
 • Multiple passes to progessively clean data (user did not value such a feature -shrugs-)
 
