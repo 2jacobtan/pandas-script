@@ -9,7 +9,7 @@ Features:
 
 • Automatically append output files with timestamp, placed in separate folder for each category
 
-— Python is overkill for such a task. [Redone in Power Query](https://github.com/2jacobtan/Power-Query-M) (built-in extract-transform-load tool in Excel and Power BI).
+— Python is overkill for such a task. [**Redone in Power Query**](https://github.com/2jacobtan/Power-Query-M) (built-in extract-transform-load tool in Excel and Power BI).
 
 Desired improvements:
 
