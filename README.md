@@ -16,3 +16,5 @@ Desired improvements:
 • place related functions in separate modules
 
 • appropriate type annotations
+
+• first-time Pandas user; code is littered with print()
