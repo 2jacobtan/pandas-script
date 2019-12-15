@@ -3,7 +3,7 @@ clean / merge data
 
 Features:
 
-• Automatically detect relevant files placed in a folder. (specified in separate .txt file)
+• Automatically detect relevant files placed in a folder (specified in separate .txt file)
 
 • Multiple passes to progessively clean data (user did not value such a feature -shrugs-)
 
